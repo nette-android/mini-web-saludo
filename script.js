@@ -3,8 +3,8 @@ let mensaje = "";
 if(hora < 12){
     mensaje = "¡Buenos días!";
 } else if (hora < 18){
-    mensaje = "¡Buenas tardes!";
+    mensaje = "¡Buenas tardses!";
 } else {
-    mensaje = "¡Buenas noches!";
+    mensaje = "¡Buenas nocheeeeeees!";
 }
 document.getElementById("mensaje").textContent = mensaje;
