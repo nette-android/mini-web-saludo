@@ -1,7 +1,7 @@
 const hora = new Date().getHours();
 let mensaje = "";
 if(hora < 12){
-    mensaje = "¡Buenos días!";
+    mensaje = "¡Benos días!";
 } else if (hora < 18){
     mensaje = "¡Buenas tardses!";
 } else {
